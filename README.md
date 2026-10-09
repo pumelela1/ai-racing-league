@@ -63,7 +63,7 @@ See `experiment_results.csv`, `evidence/telemetry_final_lap.csv` (run 4) and
    starter driver's lap was not recorded on this laptop.
 
 ## Use of IBM Bob
-IBM Bob (free trial version, Bob IDE) was used at the end of the project to review the final driver.
+IBM Bob (free trial version, Bob IDE) was used at the end of the project to review the final driver.It was asked to also develop its own racing line, speed plan and controller tuning
 
 - **Review (Ask mode).** Bob read `corkscrew_driver.py` and the telemetry of the final lap
   (`evidence/telemetry_final_lap.csv`). It explained how the driver decides steering, speed,

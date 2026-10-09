@@ -24,7 +24,7 @@ Corkscrew, Quick Race, 1 lap, standing start, on my laptop: **1:12.478, damage 0
    shift points (not measured on its own).
 
 ## Use of IBM Bob (free trial version)
-IBM Bob (Bob IDE) was used at the end of the project to review the final driver. In Ask mode it
+IBM Bob (Bob IDE) was used at the end of the project to review the final driver.It was asked to also develop racing line, speed plan and controller tuning. In Ask mode it
 read `corkscrew_driver.py` and the telemetry of my final lap, explained the control logic, and
 pointed to where the car runs furthest off the racing line (about 0.62 m at 2,665-2,727 m). It
 proposed testing `CROSS_GAIN = 0.035` instead of `0.0152`. In Agent mode it created
@@ -34,7 +34,7 @@ I ran the copy on the same track and settings: zero damage, lap time unchanged (
 72.26 s at the 3,600 m mark), and the section Bob targeted did not improve (0.65 m for 1.4 s
 against 0.62 m for 1.3 s). I rejected the change and kept the original value.
 
-Bob was not used to build the racing line, the speed plan or the controller.
+
 
 ## Other AI assistance
 The racing line, speed plan and controller tuning were developed with the Claude AI assistant and
