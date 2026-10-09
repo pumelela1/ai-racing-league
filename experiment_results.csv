@@ -1,0 +1,6 @@
+run_id,script,track,settings,change,lap_completed,lap_time_seconds,damage_start,damage_end,decision,notes
+0,snakeoil3_gym.py drive_example(),Corkscrew,"Quick Race, 1 lap, standing start, scr_server 1",starter driver (baseline),,,,,,not recorded on this laptop
+1,corkscrew_driver_safe.py (v1),Corkscrew,"Quick Race, 1 lap, standing start, scr_server 1","sensor-only driver: speed from clear distance ahead, ABS, traction control, rpm gear shifting",yes,100.220,0,0,keep,top speed 235 km/h
+2,corkscrew_driver_v2.py (v2),Corkscrew,"Quick Race, 1 lap, standing start, scr_server 1","later and harder braking, faster throttle pick-up, 6% more corner speed",yes,97.424,0,0,keep,top speed 245 km/h
+3,corkscrew_driver.py (final),Corkscrew,"Quick Race, 1 lap, standing start, scr_server 1","track-aware racing line and speed plan, pure-pursuit steering, planned braking",yes,72.478,0,0,keep,top speed 284 km/h
+4,corkscrew_driver.py (final),Corkscrew,"Quick Race, 1 lap, standing start, scr_server 1",repeat run of the final driver for the video,yes,,0,0,final,"exact lap time is shown in the video; telemetry's last sample is 72.30 s at 5 m before the line (about 72.4 s); see evidence/telemetry_final_lap.csv"
