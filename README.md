@@ -74,7 +74,8 @@ automatically, and every candidate had to finish with zero damage with 5% less g
 controls and with noisy controls.
 
 ## Demonstration
-[Video link to be added]
+Video of the final lap (Corkscrew, one lap from a standing start):
+https://drive.google.com/file/d/1HKhP8QZ6GjFDsN0Fd8saVOVOmVpUj8gg/view?usp=sharing
 
 ## Limitations
 - Corkscrew only. The line and speed plan are a table for this track; the driver does not work on

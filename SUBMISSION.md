@@ -2,8 +2,8 @@
 
 **Name:** Pumelela Mapukata
 **Project members:** individual project
-**GitHub link:** [repository URL]
-**Video demonstration:** [video link]
+**GitHub link:** https://github.com/pumelela1/ai-racing-league
+**Video demonstration:** https://drive.google.com/file/d/1HKhP8QZ6GjFDsN0Fd8saVOVOmVpUj8gg/view?usp=sharing
 
 ## Project description / problem statement
 The starter driver only reacts to what its sensors see a moment ahead, so it is slow through
